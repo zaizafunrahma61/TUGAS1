@@ -1,3 +1,7 @@
 summary(mtcars)
 mean(mtcars$mpg)
 boxplot(mtcars$mpg)
+min(mtcars$mpg)
+max(mtcars$mpg)
+length(mtcars$mpg)
+pie(mtcars$mpg)
